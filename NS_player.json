@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Star Sports 1 HD",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/IPTV-Playlist@406da1fce47b6a0b713d4893c7c633b4bee2b645/img/starsports1.png",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "Star Sports 1  Hindi",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/82Nt8Dw.jpg",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "PTV Sports",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/1024x1024bb.png",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "Willow HD",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/images4.jpg",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "Willow Xtra",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/Willow-Xtra.jpg",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "Ten Sports",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/afaqs2Fimport2Fall2Fnews2Fimages2Fnews_story_grfx2F20152F44872_1_home_big.jpg",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "A Sports HD",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/A_Sports_Logo.png",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "Sky Sports main event",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/Sky-sports-main-event.jpg",
+        "error": "Token not found or failed to fetch."
+    },
+    {
+        "name": "Sky Sports cricket",
+        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/UdQ0oZr201.png",
+        "error": "Token not found or failed to fetch."
+    }
+]
