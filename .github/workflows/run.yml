@@ -1,0 +1,19 @@
+name: Run Encrypted Script
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"  # প্রতি ১০ মিনিটে চালানো হবে
+  workflow_dispatch:
+
+jobs:
+  run-encrypted-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: রিপোজিটরি ক্লোন করুন
+        uses: actions/checkout@v3
+
+      - name: unzip এবং চালান
+        run: |
+          unzip -P "${{ secrets.ZIP_PASSWORD }}" run.zip
+          python3 run.py
+          rm run.py
