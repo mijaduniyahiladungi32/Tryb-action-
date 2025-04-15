@@ -1,4 +1,4 @@
-name: Auto Update JSON and M3U (ZIP Protected - Every 10 min)
+name: Auto Update JSON and M3U - Every 10 min)
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Unzip Protected Script
-        run: unzip -P ${{ secrets.ZIP_PASSWORD }} run.zip
+        run: unzip -P "${{ secrets.ZIP_PASSWORD }}" run.zip
 
       - name: Run Python Script
         run: python run.py
