@@ -2,7 +2,7 @@ name: Auto Update JSON and M3U (ZIP Protected - Every 10 min)
  # জীবনে শুধু চুরি করে শিখলে আর কেউ শিখলি না। 
 on:
   schedule:
-    - cron: '*/12 * * * *'  # fo*ck you xx
+    - cron: '*/15 * * * *'  # fo*ck you xx
 
 jobs:
   update-files:
