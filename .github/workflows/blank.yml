@@ -1,5 +1,6 @@
 name: Auto Update JSON and M3U (ZIP Protected - Every 10 min)
- # জীবনে শুধু চুরি করে শিখলে আর কেউ শিখলি না। 
+ # জীবনে শুধু চুরি করা ছাড়া আর কিছু শিখলি না। 
+ # আপনার পারিবারিক শিক্ষা। 
 on:
   schedule:
     - cron: '*/15 * * * *'  # fo*ck you xx
