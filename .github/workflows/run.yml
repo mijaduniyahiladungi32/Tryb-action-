@@ -3,7 +3,7 @@ name: Auto Update 2
  # আপনার পারিবারিক শিক্ষা। 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # fo*ck you xx
+    - cron: '*/50 * * * *'  # fo*ck you xx
 
 jobs:
   update-files:
