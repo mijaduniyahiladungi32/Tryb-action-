@@ -2,61 +2,63 @@
     {
         "name": "Star Sports 1 HD",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/IPTV-Playlist@406da1fce47b6a0b713d4893c7c633b4bee2b645/img/starsports1.png",
-        "url": "https://pol7.dunyapurkaraja.com:999/hls/star1in.m3u8?md5=itoQzZbrVpitzF7SOx1wAg&expires=1744961854",
+        "url": "https://pol7.dunyapurkaraja.com:999/hls/star1in.m3u8?md5=BPVLMLNtur0TrfhbIcAnqg&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Star Sports 1  Hindi",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/82Nt8Dw.jpg",
-        "url": "https://pol5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=UqgM_2Fus9GvhmKbXy8csQ&expires=1744961854",
+        "url": "https://pol5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=qyCT75qTAfTkqBWluClKUw&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "PTV Sports",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/1024x1024bb.png",
-        "url": "https://pol5.dunyapurkaraja.com:999/hls/ptvpk.m3u8?md5=CsM_ikJ71M7ju22-ILruBg&expires=1744961854",
+        "url": "https://pol6.dunyapurkaraja.com:999/hls/ptvpk.m3u8?md5=WTtKK_q0tOywFS6ZGr6o5Q&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Willow HD",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/images4.jpg",
-        "url": "https://pol6.dunyapurkaraja.com:999/hls/willowusa.m3u8?md5=C0_HNl2qsEjn81dOp670hg&expires=1744961854",
+        "url": "https://pol6.dunyapurkaraja.com:999/hls/willowusa.m3u8?md5=r1G7jko1bEuhj6JDNNwzRg&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Willow Xtra",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/Willow-Xtra.jpg",
-        "url": "https://pol5.dunyapurkaraja.com:999/hls/willowextra.m3u8?md5=lVoYOfDRPbBzDwB1v7qaUw&expires=1744961854",
+        "url": "https://pol5.dunyapurkaraja.com:999/hls/willowextra.m3u8?md5=SgPjaYyHziFDlCXJY3xngg&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Ten Sports",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/afaqs2Fimport2Fall2Fnews2Fimages2Fnews_story_grfx2F20152F44872_1_home_big.jpg",
-        "url": "https://pol7.dunyapurkaraja.com:999/hls/tenspk.m3u8?md5=SZLtonMsUcMzZJRdx5QOqw&expires=1744961854",
+        "url": "https://pol6.dunyapurkaraja.com:999/hls/tenspk.m3u8?md5=G73-e6Enca6PZpxyhdsHug&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "A Sports HD",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/A_Sports_Logo.png",
-        "url": "https://pol7.dunyapurkaraja.com:999/hls/asportshd.m3u8?md5=StnbxHk6JlQRlJYK65U49w&expires=1744961854",
+        "url": "https://pol5.dunyapurkaraja.com:999/hls/asportshd.m3u8?md5=JUCHhGIcZK1qwdTJIHU5qA&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Sky Sports main event",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/Sky-sports-main-event.jpg",
-        "error": "Token not found or failed to fetch."
+        "url": "https://pol5.dunyapurkaraja.com:999/hls/skysme.m3u8?md5=e8qgHGrEwl_-5yyScNcnjA&expires=1744966094",
+        "referer": "https://stylisheleg4nt.com",
+        "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Sky Sports cricket",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd/UdQ0oZr201.png",
-        "url": "https://pol6.dunyapurkaraja.com:999/hls/skyscric.m3u8?md5=Uwxqh-TezW-o8lp4N62laQ&expires=1744961854",
+        "url": "https://pol5.dunyapurkaraja.com:999/hls/skyscric.m3u8?md5=sSd2F5hQpDxeBoVb11vn2Q&expires=1744966094",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     }
